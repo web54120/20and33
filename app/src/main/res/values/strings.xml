@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ร้านอาหารในโรงอาหาร</string>
+
+    <string name="navigation_drawer_open">เปิดส่วน navigation drawer</string>
+    <string name="navigation_drawer_close">ปิด navigation drawer</string>
+    <string name="action_settings">ตั้งค่า (ไม่มีอะไร)</string>
+    <string name="hello_blank_fragment">ว่างเปล่า</string>
+</resources>
